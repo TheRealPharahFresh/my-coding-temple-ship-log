@@ -1,1 +1,3 @@
-Donald Eric Clemons
+# my-coding-temple-ship-log
+
+Author: Coding Temple
